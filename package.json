@@ -10,6 +10,10 @@
     "proxy": "lcp --proxyUrl https://www.lottohelden.de/graphql"
   },
   "dependencies": {
+    "@apollo/client": "^3.5.7",
+    "@vue/apollo-composable": "^4.0.0-alpha.16",
+    "graphql": "^15.8.0",
+    "graphql-tag": "^2.12.6",
     "core-js": "^3.6.5",
     "vue": "^3.0.0"
   },
