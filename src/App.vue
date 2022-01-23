@@ -1,6 +1,7 @@
 <template>
   <div class="nav-bar">
-    <router-link to="/">Home</router-link>
+    <router-link to="/" exact>Home</router-link>
+    <router-link to="/eurojackpot" exact>Lottery</router-link>
   </div>
   <router-view />
 </template>
