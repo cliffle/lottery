@@ -1,5 +1,5 @@
 import { shallowMount, flushPromises } from "@vue/test-utils";
-import EuroJackpot from "../../src/views/EuroJackpot.vue";
+import EuroJackpot from "../../src/components/EuroJackpot.vue";
 import LottoBall from "../../src/components/LottoBall.vue";
 import { useQuery } from "@vue/apollo-composable";
 
